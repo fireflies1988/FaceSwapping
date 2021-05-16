@@ -1,2 +1,3 @@
 D:\OpenCV\FaceSwapping\FaceSwapping\x64\Debug\FaceSwapping.MyForm.resources
 D:\OpenCV\FaceSwapping\FaceSwapping\x64\Debug\FaceSwapping.vcxproj.GenerateResource.cache
+D:\OpenCV\FaceSwapping\FaceSwapping\x64\Debug\FaceSwapping.vcxprojAssemblyReference.cache
