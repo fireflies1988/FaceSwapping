@@ -1,0 +1,6 @@
+*.bin filter=lfs diff=lfs merge=lfs -text
+FaceSwapping filter=lfs diff=lfs merge=lfs -text
+FaceSwapping !text !filter !merge !diff
+*.ipch filter=lfs diff=lfs merge=lfs -text
+*.db filter=lfs diff=lfs merge=lfs -text
+*.yaml filter=lfs diff=lfs merge=lfs -text
