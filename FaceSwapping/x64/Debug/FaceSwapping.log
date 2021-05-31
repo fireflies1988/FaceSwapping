@@ -1,10 +1,10 @@
 ﻿  MyForm.cpp
-D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(552,1): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(554,1): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(575,76): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(577,76): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
           with
           [
               _Tp=float
@@ -13,7 +13,7 @@ D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(575,76): warning C4244: 'argument':
           [
               _Tp=int
           ]
-D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(575,53): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(577,53): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
           with
           [
               _Tp=float
@@ -22,7 +22,7 @@ D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(575,53): warning C4244: 'argument':
           [
               _Tp=int
           ]
-D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(715,50): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(717,50): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
           with
           [
               _Tp=float
@@ -31,7 +31,7 @@ D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(715,50): warning C4244: 'argument':
           [
               _Tp=int
           ]
-D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(715,38): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(717,38): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
           with
           [
               _Tp=float
@@ -40,7 +40,7 @@ D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(715,38): warning C4244: 'argument':
           [
               _Tp=int
           ]
-D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(848,51): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(850,51): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
           with
           [
               _Tp=float
@@ -49,7 +49,7 @@ D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(848,51): warning C4244: 'argument':
           [
               _Tp=int
           ]
-D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(848,39): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(850,39): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
           with
           [
               _Tp=float

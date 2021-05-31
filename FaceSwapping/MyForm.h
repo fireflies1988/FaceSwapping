@@ -110,6 +110,7 @@ namespace FaceSwapping {
 		/// </summary>
 		void InitializeComponent(void)
 		{
+			System::ComponentModel::ComponentResourceManager^ resources = (gcnew System::ComponentModel::ComponentResourceManager(MyForm::typeid));
 			this->tabControl1 = (gcnew System::Windows::Forms::TabControl());
 			this->tabPage1 = (gcnew System::Windows::Forms::TabPage());
 			this->groupBox9 = (gcnew System::Windows::Forms::GroupBox());
@@ -344,10 +345,10 @@ namespace FaceSwapping {
 			this->tabPage2->Controls->Add(this->groupBox7);
 			this->tabPage2->Controls->Add(this->groupBox6);
 			this->tabPage2->Controls->Add(this->groupBox5);
-			this->tabPage2->Location = System::Drawing::Point(4, 31);
+			this->tabPage2->Location = System::Drawing::Point(4, 25);
 			this->tabPage2->Name = L"tabPage2";
 			this->tabPage2->Padding = System::Windows::Forms::Padding(3);
-			this->tabPage2->Size = System::Drawing::Size(1193, 719);
+			this->tabPage2->Size = System::Drawing::Size(1193, 725);
 			this->tabPage2->TabIndex = 1;
 			this->tabPage2->Text = L"Cam";
 			this->tabPage2->UseVisualStyleBackColor = true;
@@ -472,6 +473,7 @@ namespace FaceSwapping {
 			this->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 10.8F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
 			this->FormBorderStyle = System::Windows::Forms::FormBorderStyle::FixedSingle;
+			this->Icon = (cli::safe_cast<System::Drawing::Icon^>(resources->GetObject(L"$this.Icon")));
 			this->MaximizeBox = false;
 			this->Name = L"MyForm";
 			this->StartPosition = System::Windows::Forms::FormStartPosition::CenterScreen;
