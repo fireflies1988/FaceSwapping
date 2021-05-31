@@ -678,7 +678,7 @@ private: System::Void buttonProcess_Click(System::Object^ sender, System::EventA
 	dstWarped = dst.clone();
 	dstWarped.convertTo(dstWarped, CV_32F);
 
-	// Find convex hull of destination image
+	// Find convex hull of one or the other
 	vector<Point2f> hull1;
 	vector<Point2f> hull2;
 	vector<int> hullIndex;
@@ -811,7 +811,7 @@ private: System::Void buttonStart_Click(System::Object^ sender, System::EventArg
 
 		frameWarped.convertTo(frameWarped, CV_32F);
 
-		// Find convex hull of destination image
+		// Find convex hull of one or the other
 		vector<Point2f> hull1;
 		vector<Point2f> hull2;
 		vector<int> hullIndex;

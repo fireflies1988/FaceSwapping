@@ -1,1 +1,71 @@
-﻿  FaceSwapping.vcxproj -> D:\OpenCV\FaceSwapping\x64\Debug\FaceSwapping.exe
+﻿  MyForm.cpp
+D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(552,1): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(575,76): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(575,53): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(715,50): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(715,38): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(848,51): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.h(848,39): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\OpenCV\FaceSwapping\FaceSwapping\MyForm.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+D:\Program Files\OpenCV\build\install\include\opencv2\core\cuda.inl.hpp(105): warning C4793: 'cv::cuda::GpuMat::GpuMat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Program Files\OpenCV\build\install\include\opencv2\core\cuda.inl.hpp(401): warning C4793: 'cv::cuda::HostMem::HostMem': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Program Files\OpenCV\build\install\include\opencv2\core\fast_math.hpp(315): warning C4793: '`anonymous namespace'::cvRound': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\Program Files\OpenCV\build\install\include\opencv2\core\fast_math.hpp(316): warning C4793: '`anonymous namespace'::cvRound': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  FaceSwapping.vcxproj -> D:\OpenCV\FaceSwapping\x64\Debug\FaceSwapping.exe
